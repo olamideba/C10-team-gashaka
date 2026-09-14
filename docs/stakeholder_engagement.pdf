@@ -1,0 +1,43 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 5 0 R >> >> /Contents 4 0 R >>
+endobj
+4 0 obj
+<< /Length 1159 >>
+stream
+BT /F1 18 Tf 72 780 Td (Stakeholder Engagement) Tj ET
+BT /F1 10 Tf 72 740 Td (Primary stakeholders are customers submitting complaints, support agents who triage) Tj ET
+BT /F1 10 Tf 72 725 Td (them, and service owners responsible for workflow quality. The project was developed for) Tj ET
+BT /F1 10 Tf 72 710 Td (the TRI AI Cohort 10 competition using its supplied dataset.) Tj ET
+BT /F1 10 Tf 72 690 Td (No direct interviews, surveys, or external stakeholder-validation sessions were) Tj ET
+BT /F1 10 Tf 72 675 Td (completed during this competition project. This is a limitation, not evidence of) Tj ET
+BT /F1 10 Tf 72 660 Td (approval from users or support teams.) Tj ET
+BT /F1 10 Tf 72 640 Td (Before deployment, engagement should include support-agent error review, service-owner) Tj ET
+BT /F1 10 Tf 72 625 Td (routing and escalation rules, and representative-user checks for language variation and) Tj ET
+BT /F1 10 Tf 72 610 Td (sensitive complaints. Feedback should inform authorised data collection, categories, and) Tj ET
+BT /F1 10 Tf 72 595 Td (the human-review workflow.) Tj ET
+BT /F1 9 Tf 72 567 Td (TRI AI Saturdays Cohort 10 - Team Gashaka) Tj ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000001452 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+1522
+%%EOF

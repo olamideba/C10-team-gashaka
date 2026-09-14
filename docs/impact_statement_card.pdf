@@ -1,0 +1,43 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 5 0 R >> >> /Contents 4 0 R >>
+endobj
+4 0 obj
+<< /Length 1187 >>
+stream
+BT /F1 18 Tf 72 780 Td (Impact Statement Card) Tj ET
+BT /F1 10 Tf 72 740 Td (Potential benefit: consistent first-pass routing can help support teams find the) Tj ET
+BT /F1 10 Tf 72 725 Td (appropriate queue sooner and reduce avoidable waiting time.) Tj ET
+BT /F1 10 Tf 72 705 Td (Potential harms: a category error can delay a response, particularly for fraud or) Tj ET
+BT /F1 10 Tf 72 690 Td (account-access complaints. The training data may underrepresent real language variation,) Tj ET
+BT /F1 10 Tf 72 675 Td (including code-switching, typos, rare cases, and accessibility needs.) Tj ET
+BT /F1 10 Tf 72 655 Td (Mitigations: treat output as a recommendation; show reviewers the original text; allow) Tj ET
+BT /F1 10 Tf 72 640 Td (manual override; monitor per-category errors; and do not use the classifier as the only) Tj ET
+BT /F1 10 Tf 72 625 Td (safety-critical escalation mechanism.) Tj ET
+BT /F1 10 Tf 72 605 Td (Grouped five-fold development validation produced a best out-of-fold macro F1 of 0.7556) Tj ET
+BT /F1 10 Tf 72 590 Td (for the MPNet model. This is not a guarantee of deployed performance.) Tj ET
+BT /F1 9 Tf 72 562 Td (TRI AI Saturdays Cohort 10 - Team Gashaka) Tj ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000001480 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+1550
+%%EOF
